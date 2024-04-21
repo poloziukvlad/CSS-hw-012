@@ -15,6 +15,6 @@ main p {
 }
 
 footer h2 {
-    background-color: rgb(155, 30, 50);
+    background-color: rgba(155, 30, 50, .5);
     padding: 15px;
 }
