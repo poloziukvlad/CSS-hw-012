@@ -12,9 +12,11 @@ section h1 {
 main p {
     background-color: #ff12ff;
     padding: 15px;
+    color: #ffffff;
 }
 
 footer h2 {
     background-color: rgba(155, 30, 50, .5);
     padding: 15px;
+    color: blue;
 }
