@@ -8,7 +8,7 @@ section h1 {
     padding: 15px;
     margin-bottom: 10px;
     border: coral 3px solid;
-    background-color: aqua;
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
 }
 
 main p {
