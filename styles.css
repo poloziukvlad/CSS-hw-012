@@ -24,4 +24,5 @@ footer h2 {
     padding: 15px;
     color: blue;
     border: rgba(155, 30, 50, .5) 5px solid;
+    text-shadow: #12ffefde 5px 0 5px;
 }
