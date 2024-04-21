@@ -5,18 +5,23 @@
 }
 
 section h1 {
-    background-color: aqua;
     padding: 15px;
+    margin-bottom: 10px;
+    border: coral 3px solid;
+    background-color: aqua;
 }
 
 main p {
-    background-color: #ff12ff;
     padding: 15px;
+    margin-bottom: 10px;
+    background-color: #ff12ff;
     color: #ffffff;
+    border: black 3px dashed;
 }
 
 footer h2 {
     background-color: rgba(155, 30, 50, .5);
     padding: 15px;
     color: blue;
+    border: rgba(155, 30, 50, .5) 5px solid;
 }
